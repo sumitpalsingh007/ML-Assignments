@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/.idea/sonarIssues.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/.idea/workspace.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/DecisionTreeWithoutLibary.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ML.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ML_ASSIGNMENT_CLASSIFICATION.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ML_Assignment.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ML_Assignment_Sidd_2017HT13125_V2.0.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ML_Assignment_Sidd_2017HT13125_V4.0.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/assignment.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cc-client.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cc-server.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/code.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/decisiontreeclassification.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/fcm_final.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/cms-mtb/cms-mtb-design/cms-mtb-design-package/src/main/content/jcr_root/etc/designs/richemont-mtb/clientlibs/redesign/styles/components/producttiles/producttilesWide.less">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/cms-mtb/cms-mtb-ui/cms-mtb-ui-package/src/main/content/jcr_root/apps/richemont-mtb/ui/redn/components/product/buybox/buybox.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/cms-mtb/cms-mtb-ui/cms-mtb-ui-package/src/main/content/jcr_root/apps/richemont-mtb/ui/redn/components/product/pdpshare/pdpshare.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
